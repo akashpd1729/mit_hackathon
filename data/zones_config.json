@@ -1,0 +1,58 @@
+{
+  "zones": [
+    {
+      "zone_id": "Z001",
+      "zone_name": "Central Zone",
+      "elevation": 100,
+      "population": 150000,
+      "num_sensors": 5,
+      "base_pressure": 45.0,
+      "coordinates": {"lat": 17.6599, "lon": 75.9064}
+    },
+    {
+      "zone_id": "Z002",
+      "zone_name": "North Zone",
+      "elevation": 150,
+      "population": 120000,
+      "num_sensors": 4,
+      "base_pressure": 38.0,
+      "coordinates": {"lat": 17.6799, "lon": 75.9164}
+    },
+    {
+      "zone_id": "Z003",
+      "zone_name": "South Zone",
+      "elevation": 80,
+      "population": 180000,
+      "num_sensors": 6,
+      "base_pressure": 48.0,
+      "coordinates": {"lat": 17.6399, "lon": 75.8964}
+    },
+    {
+      "zone_id": "Z004",
+      "zone_name": "East Zone",
+      "elevation": 120,
+      "population": 140000,
+      "num_sensors": 5,
+      "base_pressure": 42.0,
+      "coordinates": {"lat": 17.6599, "lon": 75.9264}
+    },
+    {
+      "zone_id": "Z005",
+      "zone_name": "West Zone",
+      "elevation": 110,
+      "population": 160000,
+      "num_sensors": 5,
+      "base_pressure": 44.0,
+      "coordinates": {"lat": 17.6599, "lon": 75.8864}
+    },
+    {
+      "zone_id": "Z006",
+      "zone_name": "Hill View Zone",
+      "elevation": 200,
+      "population": 90000,
+      "num_sensors": 3,
+      "base_pressure": 32.0,
+      "coordinates": {"lat": 17.6899, "lon": 75.9364}
+    }
+  ]
+}

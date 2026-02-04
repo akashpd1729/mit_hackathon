@@ -1,0 +1,21 @@
+event_id,timestamp,zone_id,zone_name,severity,estimated_loss_liters,status,response_time_hours
+LEAK_001,2026-02-03 10:16:09.813629,Z005,West Zone,minor,26535,resolved,10.78
+LEAK_002,2026-01-31 10:16:09.813629,Z005,West Zone,minor,25528,detected,22.29
+LEAK_003,2026-01-14 10:16:09.813629,Z004,East Zone,minor,33247,resolved,20.83
+LEAK_004,2026-01-21 10:16:09.813629,Z002,North Zone,moderate,6174,detected,23.45
+LEAK_005,2026-01-27 10:16:09.815137,Z003,South Zone,minor,22890,detected,17.7
+LEAK_006,2026-01-15 10:16:09.815137,Z004,East Zone,moderate,16833,resolved,10.16
+LEAK_007,2026-01-20 10:16:09.815137,Z002,North Zone,moderate,38820,resolved,5.48
+LEAK_008,2026-01-18 10:16:09.815137,Z006,Hill View Zone,minor,4777,resolved,16.77
+LEAK_009,2026-01-19 10:16:09.815137,Z006,Hill View Zone,minor,41126,resolved,23.88
+LEAK_010,2026-01-25 10:16:09.815137,Z006,Hill View Zone,minor,42291,resolved,9.21
+LEAK_011,2026-01-28 10:16:09.815137,Z005,West Zone,minor,31868,resolved,16.47
+LEAK_012,2026-01-06 10:16:09.815137,Z005,West Zone,minor,43425,detected,10.59
+LEAK_013,2026-01-25 10:16:09.815137,Z006,Hill View Zone,minor,28584,resolved,21.13
+LEAK_014,2026-01-14 10:16:09.816146,Z003,South Zone,moderate,8557,detected,16.12
+LEAK_015,2026-01-27 10:16:09.816146,Z005,West Zone,moderate,20397,resolved,7.69
+LEAK_016,2026-01-26 10:16:09.816146,Z001,Central Zone,moderate,40452,detected,16.64
+LEAK_017,2026-01-12 10:16:09.816146,Z001,Central Zone,minor,44407,resolved,18.95
+LEAK_018,2026-01-20 10:16:09.816654,Z004,East Zone,moderate,26125,resolved,14.67
+LEAK_019,2026-01-10 10:16:09.816654,Z003,South Zone,minor,38753,resolved,5.98
+LEAK_020,2026-02-01 10:16:09.816654,Z002,North Zone,minor,29920,resolved,8.97
